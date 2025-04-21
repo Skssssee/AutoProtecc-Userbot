@@ -1,6 +1,5 @@
 import os
 import time
-import aiohttp
 import urllib
 import requests
 
